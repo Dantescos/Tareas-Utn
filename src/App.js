@@ -1,5 +1,7 @@
 import './App.css';
-import TareaFormulario from "./Componentes/TaskForm";
+import React  from 'react';
+import ListaDeTareas from "./Componentes/TaskItem"
+
 
 
 function App() {
@@ -11,7 +13,8 @@ function App() {
 
     <div className='tareas-listado'>
       <h1 className='titulo'> Mis tareas </h1>
-        <TareaFormulario/>
+      <ListaDeTareas />
+        
     </div>  
     </div>
     
