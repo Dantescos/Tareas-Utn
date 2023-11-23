@@ -9,7 +9,8 @@ return (
         
         {texto}
         </div>
-        <div className="icono-area" onClick={()=>eliminarTarea(id)}> 
+        <div className="icono-area" 
+        onClick={() => eliminarTarea(id)}> 
          <AiFillCloseCircle className="icono" />
     </div>
     </div>
