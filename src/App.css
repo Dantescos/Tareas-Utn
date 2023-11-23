@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    font-family: Lato, sans-serif;
+    margin-top: 40px;
+}
+
+.App {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.tareas-listado{
+    width:  600;
+    min-height: 500px;
+    background-color: rgb(147, 136, 155);
+    padding: 25px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 26px;
+
+}
+ .titulo{
+    color: black;
+    font-size: 25px;
+    font-family: roboto,sans-serif;
+    text-align: center;
+    margin: 20px 0;
+ }
