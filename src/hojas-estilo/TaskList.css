@@ -1,7 +1,7 @@
 .tareas-listados {
     width: 500px;
     min-height: 65px;
-    background-color: rgb(248, 188, 188);
+    background-color: rgb(26, 25, 25);
     margin:  5px 0;
     padding:  8px 15px 8px 20px;
     display: flex;
@@ -13,7 +13,7 @@
 
 
 .tareas-listados.completada{
-background-color: #5a01a7;
+background-color: #850dee;
 text-decoration: line-through;
 
 }

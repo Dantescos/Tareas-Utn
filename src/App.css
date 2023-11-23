@@ -6,7 +6,7 @@
 
 html,body {
     color: white;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(109, 4, 4);
     font-family: Lato, sans-serif;
     margin-top: 40px;
 }
@@ -21,7 +21,7 @@ html,body {
 .tareas-listado{
     width:  600;
     min-height: 500px;
-    background-color: rgb(147, 136, 155);
+    background-color: rgb(39, 39, 39);
     padding: 25px;
     margin: 10px;
     justify-content: center;
@@ -29,7 +29,7 @@ html,body {
 
 }
  .titulo{
-    color: black;
+    color: rgb(71, 71, 71);
     font-size: 25px;
     font-family: roboto,sans-serif;
     text-align: center;
